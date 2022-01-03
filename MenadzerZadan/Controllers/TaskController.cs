@@ -23,7 +23,7 @@ namespace MenadzerZadan.Controllers
             new TaskModel(){ TaskId = 2, Name= "Zrobć obiad", Description= "Pierogi", Done = false},
         };
         
-        
+        //zmiana w pliku TaskController
         
         // GET: Task
         public ActionResult Index()
